@@ -1,0 +1,318 @@
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\bin\Debug\Presentacion.exe
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\bin\Debug\Presentacion.pdb
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\MainWindow.g.cs
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\App.g.cs
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\MainWindow.baml
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\Presentacion.g.resources
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\Presentacion.exe
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\Presentacion.pdb
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\wpfLoginCliente.g.cs
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\wpfLoginCliente.baml
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\wpfLoginNuevoCliente.g.cs
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\wpfLoginNuevoCliente.baml
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\wpfOpcionesCliente.g.cs
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\wpfOpcionesCliente.baml
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\wpfProductoDisponible.g.cs
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\obj\Debug\wpfProductoDisponible.baml
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\bin\Debug\Entidades.dll
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\bin\Debug\Negocio.dll
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\bin\Debug\Entidades.pdb
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\bin\Debug\Entidades.dll
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\bin\Debug\Negocio.dll
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfLoginCliente.g.cs
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfLoginNuevoCliente.g.cs
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfOpcionesCliente.g.cs
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfProductoDisponible.g.cs
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\App.g.cs
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfLoginCliente.baml
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfLoginNuevoCliente.baml
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfOpcionesCliente.baml
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfProductoDisponible.baml
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfLoginEmpleado.g.cs
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfLoginEmpleado.baml
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfLoginNuevoEmpleado.g.cs
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfOpcionesEmpleado.g.cs
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfLoginNuevoEmpleado.baml
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfOpcionesEmpleado.baml
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfClienteMasCompra.g.cs
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfDistritoMayorDemanda.g.cs
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfInventario.g.cs
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfProductoElegido.g.cs
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfProductoMasDemanda.g.cs
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfClienteMasCompra.baml
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfDistritoMayorDemanda.baml
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfInventario.baml
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfProductoElegido.baml
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Presentacion\obj\Debug\wpfProductoMasDemanda.baml
+C:\Users\User\Desktop\Nilton\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\User\Desktop\Nilton\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\User\Desktop\Nilton\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\User\Desktop\Nilton\Presentacion\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\Nilton\Presentacion\bin\Debug\Negocio.dll
+C:\Users\User\Desktop\Nilton\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\Nilton\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfClienteMasCompra.g.cs
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfDistritoMayorDemanda.g.cs
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfInventario.g.cs
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfLoginCliente.g.cs
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfLoginEmpleado.g.cs
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfLoginNuevoCliente.g.cs
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfLoginNuevoEmpleado.g.cs
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfOpcionesCliente.g.cs
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfOpcionesEmpleado.g.cs
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfProductoDisponible.g.cs
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfProductoElegido.g.cs
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfProductoMasDemanda.g.cs
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfClienteMasCompra.baml
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfDistritoMayorDemanda.baml
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfInventario.baml
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfLoginCliente.baml
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfLoginEmpleado.baml
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfLoginNuevoCliente.baml
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfLoginNuevoEmpleado.baml
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfOpcionesCliente.baml
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfOpcionesEmpleado.baml
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfProductoDisponible.baml
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfProductoElegido.baml
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfProductoMasDemanda.baml
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\User\Desktop\Nilton\Presentacion\bin\Debug\Datos.dll
+C:\Users\User\Desktop\Nilton\Presentacion\bin\Debug\Datos.pdb
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfModificarLoginCliente.g.cs
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfModificarLoginCliente.baml
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfModificarLoginEmpleado.g.cs
+C:\Users\User\Desktop\Nilton\Presentacion\obj\Debug\wpfModificarLoginEmpleado.baml
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\bin\Debug\Presentacion.exe
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\bin\Debug\Presentacion.pdb
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\bin\Debug\Entidades.dll
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\bin\Debug\Negocio.dll
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\bin\Debug\Datos.dll
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\bin\Debug\Entidades.pdb
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\bin\Debug\Negocio.pdb
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\bin\Debug\Datos.pdb
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\MainWindow.g.cs
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfClienteMasCompra.g.cs
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfDistritoMayorDemanda.g.cs
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfInventario.g.cs
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfLoginCliente.g.cs
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfLoginEmpleado.g.cs
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfLoginNuevoCliente.g.cs
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfLoginNuevoEmpleado.g.cs
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfModificarLoginCliente.g.cs
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfModificarLoginEmpleado.g.cs
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfOpcionesCliente.g.cs
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfOpcionesEmpleado.g.cs
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfProductoDisponible.g.cs
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfProductoElegido.g.cs
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfProductoMasDemanda.g.cs
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\App.g.cs
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\MainWindow.baml
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfClienteMasCompra.baml
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfDistritoMayorDemanda.baml
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfInventario.baml
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfLoginCliente.baml
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfLoginEmpleado.baml
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfLoginNuevoCliente.baml
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfLoginNuevoEmpleado.baml
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfModificarLoginCliente.baml
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfModificarLoginEmpleado.baml
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfOpcionesCliente.baml
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfOpcionesEmpleado.baml
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfProductoDisponible.baml
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfProductoElegido.baml
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\wpfProductoMasDemanda.baml
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\Presentacion.g.resources
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\Presentacion.exe
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\Presentacion.pdb
+D:\Proyecto Final Ciclo 3\Nilton\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\User\Desktop\Noboru\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\User\Desktop\Noboru\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\User\Desktop\Noboru\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\User\Desktop\Noboru\Presentacion\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\Noboru\Presentacion\bin\Debug\Negocio.dll
+C:\Users\User\Desktop\Noboru\Presentacion\bin\Debug\Datos.dll
+C:\Users\User\Desktop\Noboru\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\Noboru\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\User\Desktop\Noboru\Presentacion\bin\Debug\Datos.pdb
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfClienteMasCompra.g.cs
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfInventario.g.cs
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfLoginCliente.g.cs
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfLoginEmpleado.g.cs
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfLoginNuevoCliente.g.cs
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfLoginNuevoEmpleado.g.cs
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfModificarLoginCliente.g.cs
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfModificarLoginEmpleado.g.cs
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfOpcionesCliente.g.cs
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfOpcionesEmpleado.g.cs
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfProductoDisponible.g.cs
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfProductoElegido.g.cs
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfClienteMasCompra.baml
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfInventario.baml
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfLoginCliente.baml
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfLoginEmpleado.baml
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfLoginNuevoCliente.baml
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfLoginNuevoEmpleado.baml
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfModificarLoginCliente.baml
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfModificarLoginEmpleado.baml
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfOpcionesCliente.baml
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfOpcionesEmpleado.baml
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfProductoDisponible.baml
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\wpfProductoElegido.baml
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\Presentacion.DistritoMayorDemanda.resources
+C:\Users\User\Desktop\Noboru\Presentacion\obj\Debug\Presentacion.ProductoMasDemandado.resources
+C:\proyectos\tarea1\Noboru\Presentacion\bin\Debug\Presentacion.exe.config
+C:\proyectos\tarea1\Noboru\Presentacion\bin\Debug\Presentacion.exe
+C:\proyectos\tarea1\Noboru\Presentacion\bin\Debug\Presentacion.pdb
+C:\proyectos\tarea1\Noboru\Presentacion\bin\Debug\Entidades.dll
+C:\proyectos\tarea1\Noboru\Presentacion\bin\Debug\Negocio.dll
+C:\proyectos\tarea1\Noboru\Presentacion\bin\Debug\Datos.dll
+C:\proyectos\tarea1\Noboru\Presentacion\bin\Debug\Entidades.pdb
+C:\proyectos\tarea1\Noboru\Presentacion\bin\Debug\Negocio.pdb
+C:\proyectos\tarea1\Noboru\Presentacion\bin\Debug\Datos.pdb
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\MainWindow.g.cs
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfClienteMasCompra.g.cs
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfInventario.g.cs
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfLoginCliente.g.cs
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfLoginEmpleado.g.cs
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfLoginNuevoCliente.g.cs
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfLoginNuevoEmpleado.g.cs
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfModificarLoginCliente.g.cs
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfModificarLoginEmpleado.g.cs
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfOpcionesCliente.g.cs
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfOpcionesEmpleado.g.cs
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfProductoDisponible.g.cs
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfHistorialCliente.g.cs
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\App.g.cs
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\MainWindow.baml
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfClienteMasCompra.baml
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfInventario.baml
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfLoginCliente.baml
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfLoginEmpleado.baml
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfLoginNuevoCliente.baml
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfLoginNuevoEmpleado.baml
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfModificarLoginCliente.baml
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfModificarLoginEmpleado.baml
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfOpcionesCliente.baml
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfOpcionesEmpleado.baml
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfProductoDisponible.baml
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\wpfHistorialCliente.baml
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\Presentacion.g.resources
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\Presentacion.FechaMasDemandada.resources
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\Presentacion.DistritoMayorDemanda.resources
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\Presentacion.ProductoMasDemandado.resources
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\Presentacion.exe
+C:\proyectos\tarea1\Noboru\Presentacion\obj\Debug\Presentacion.pdb
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\bin\Debug\Presentacion.exe
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\bin\Debug\Presentacion.pdb
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\bin\Debug\Entidades.dll
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\bin\Debug\Negocio.dll
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\bin\Debug\Datos.dll
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\bin\Debug\Entidades.pdb
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\bin\Debug\Negocio.pdb
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\bin\Debug\Datos.pdb
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\MainWindow.g.cs
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfClienteMasCompra.g.cs
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfInventario.g.cs
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfLoginCliente.g.cs
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfLoginEmpleado.g.cs
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfLoginNuevoCliente.g.cs
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfLoginNuevoEmpleado.g.cs
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfModificarLoginCliente.g.cs
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfModificarLoginEmpleado.g.cs
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfOpcionesCliente.g.cs
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfOpcionesEmpleado.g.cs
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfProductoDisponible.g.cs
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfHistorialCliente.g.cs
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\App.g.cs
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\MainWindow.baml
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfClienteMasCompra.baml
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfInventario.baml
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfLoginCliente.baml
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfLoginEmpleado.baml
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfLoginNuevoCliente.baml
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfLoginNuevoEmpleado.baml
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfModificarLoginCliente.baml
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfModificarLoginEmpleado.baml
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfOpcionesCliente.baml
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfOpcionesEmpleado.baml
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfProductoDisponible.baml
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\wpfHistorialCliente.baml
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\Presentacion.g.resources
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\Presentacion.FechaMasDemandada.resources
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\Presentacion.DistritoMayorDemanda.resources
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\Presentacion.ProductoMasDemandado.resources
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\Presentacion.exe
+D:\Proyecto Final Ciclo 3\Noboru\Presentacion\obj\Debug\Presentacion.pdb

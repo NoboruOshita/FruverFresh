@@ -1,0 +1,39 @@
+﻿<Window x:Class="Presentacion.MainWindow" WindowStartupLocation = "CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid RenderTransformOrigin="0,1" Background="{DynamicResource {x:Static SystemColors.GradientActiveCaptionBrushKey}}">
+        <Image HorizontalAlignment="Left" Height="218" VerticalAlignment="Top" Width="793" Source="ImgFruverFresh.jpg" Stretch="UniformToFill" Margin="-2,0,0,0" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.085"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-0.624"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Label Content="Elija el Tipo de Usuario" HorizontalAlignment="Left" Margin="227,228,0,0" VerticalAlignment="Top" RenderTransformOrigin="-3.367,0.456" FontSize="24" FontFamily="Sitka Small" FontWeight="Bold" Foreground="#FF0D0D36"/>
+        <Button Content="CLIENTE" HorizontalAlignment="Left" Margin="81,296,0,0" VerticalAlignment="Top" Width="168" Height="61" FontSize="24" FontWeight="Bold" Click="Button_Click_1" FontFamily="Sitka Small" IsTabStop="False" BorderBrush="{x:Null}" TabIndex="2147483646" Focusable="False">
+            <Button.BindingGroup>
+                <BindingGroup/>
+            </Button.BindingGroup>
+            <Button.ContextMenu>
+                <ContextMenu/>
+            </Button.ContextMenu>
+            <Button.Background>
+                <ImageBrush ImageSource="images/btnContorno.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="EMPLEADO" HorizontalAlignment="Left" Margin="563,299,0,0" VerticalAlignment="Top" Width="168" Height="62" FontFamily="Sitka Small" FontWeight="Bold" FontSize="24" Click="Button_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="images/btnContorno.png"/>
+            </Button.Background>
+        </Button>
+        <Label Content="BIENVENIDO A" HorizontalAlignment="Left" Margin="227,23,0,0" VerticalAlignment="Top" FontFamily="Sitka Small" FontSize="48" Foreground="White"/>
+    </Grid>
+</Window>

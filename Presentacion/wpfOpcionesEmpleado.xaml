@@ -1,0 +1,54 @@
+﻿<Window x:Class="Presentacion.wpfOpcionesEmpleado" WindowStartupLocation = "CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="wpfOpcionesEmpleado" Height="450" Width="800">
+    <Grid x:Name="Btton" Background="#FFD4A327">
+        <Image HorizontalAlignment="Left" Height="204" VerticalAlignment="Top" Width="793" Source="ImgFruverFresh.jpg" Stretch="UniformToFill" Margin="0,-80,-1,0" RenderTransformOrigin="0.5,0.5" OpacityMask="#FFD4A327">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.085"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-0.624"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Label Content="BIENVENIDO" HorizontalAlignment="Left" Margin="36,144,0,0" VerticalAlignment="Top" FontSize="22" FontFamily="Sitka Small" FontWeight="Bold" OpacityMask="#FFD4A327"/>
+        <Button x:Name="btnClienteMasCompra" Content="MEJORES FECHAS" HorizontalAlignment="Left" Margin="123,274,0,0" VerticalAlignment="Top" Width="250" RenderTransformOrigin="0.173,0.55" FontSize="18" FontFamily="Sitka Small" Height="70" FontWeight="Bold" OpacityMask="#FFD4A327" Click="btnClienteMasCompra_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="images/btnContorno.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnDistritomayordem" Content="DISTRITO CON MAYOR&#xD;&#xA;DEMANDA" HorizontalAlignment="Left" Margin="469,187,0,0" VerticalAlignment="Top" Width="250" Height="70" FontFamily="Sitka Small" FontSize="18" FontWeight="Bold" RenderTransformOrigin="-0.791,0.837" OpacityMask="#FFD4A327" Click="btnDistritomayordem_Click" BorderBrush="{x:Null}" HorizontalContentAlignment="Center">
+            <Button.Background>
+                <ImageBrush ImageSource="images/btnContorno.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnCerrarSes2" Content="Cerrar Sesión" HorizontalAlignment="Left" Margin="635,144,0,0" VerticalAlignment="Top" Width="120" Height="30" Click="btnCerrarSes_Click" OpacityMask="#FFD4A327" BorderBrush="{x:Null}" Foreground="White">
+            <Button.Background>
+                <ImageBrush ImageSource="images/btnWarning1.png"/>
+            </Button.Background>
+        </Button>
+        <Label x:Name="lblNombre" Content="Label" HorizontalAlignment="Left" Margin="200,144,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.722,-0.491" FontSize="22" FontFamily="Sitka Small" FontWeight="Bold" Width="216"/>
+        <Button x:Name="btnInventario" Content="INVENTARIO" HorizontalAlignment="Left" Margin="469,274,0,0" VerticalAlignment="Top" Width="250" RenderTransformOrigin="0.173,0.55" FontSize="18" FontFamily="Sitka Small" Height="70" FontWeight="Bold" OpacityMask="#FFD4A327" Click="btnInventario_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="images/btnContorno.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnproductomasdemandado" Content="PRODUCTO MÁS &#xD;&#xA;DEMANDADO" HorizontalAlignment="Left" Margin="123,187,0,0" VerticalAlignment="Top" Width="250" FontFamily="Sitka Small" Click="Button_Click" FontWeight="Bold" Height="70" FontSize="18" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="images/btnContorno.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnmodificar" Content="MODIFICAR DATOS" HorizontalAlignment="Left" Margin="36,366,0,0" VerticalAlignment="Top" Width="221" Height="43" Click="btnmodificar_Click" FontFamily="Sitka Small" FontWeight="Bold" FontSize="18" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="images/btnRegistro.png"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>

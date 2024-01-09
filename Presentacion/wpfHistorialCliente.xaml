@@ -1,0 +1,22 @@
+﻿<Window x:Class="Presentacion.wpfProductoElegido"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="wpfProductoElegido" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid Background="#FFC9CE5B">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="HISTORIAL DE PEDIDOS" HorizontalAlignment="Left" Margin="233,21,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24" FontFamily="Sitka Small" Width="344"/>
+        <DataGrid x:Name="dgHistorial" Margin="0,0,168,146" MinColumnWidth="108" CanUserDeleteRows="False" CanUserResizeRows="False" HorizontalAlignment="Right" Width="460" Height="175" VerticalAlignment="Bottom" />
+        <Button Content="ATRAS" HorizontalAlignment="Left" Margin="616,330,0,0" VerticalAlignment="Top" Width="128" Height="50" FontWeight="Bold" BorderBrush="{x:Null}" Foreground="White" Click="ButtonClose_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="images/btnWarning1.png"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>

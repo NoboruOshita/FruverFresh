@@ -1,0 +1,62 @@
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Datos\bin\Debug\Datos.dll
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Datos\bin\Debug\Datos.pdb
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Datos\bin\Debug\Entidades.dll
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Datos\bin\Debug\Entidades.pdb
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Datos\obj\Debug\Datos.dll
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Datos\obj\Debug\Datos.pdb
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Datos\bin\Debug\Datos.dll
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Datos\bin\Debug\Datos.pdb
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Datos\bin\Debug\Entidades.dll
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Datos\bin\Debug\Entidades.pdb
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Datos\obj\Debug\Datos.dll
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Datos\obj\Debug\Datos.pdb
+C:\Users\User\Desktop\Nilton\Datos\bin\Debug\Datos.dll
+C:\Users\User\Desktop\Nilton\Datos\bin\Debug\Datos.pdb
+C:\Users\User\Desktop\Nilton\Datos\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\Nilton\Datos\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\Nilton\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Nilton\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nilton\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\User\Desktop\Nilton\Datos\obj\Debug\Datos.dll
+C:\Users\User\Desktop\Nilton\Datos\obj\Debug\Datos.pdb
+D:\Proyecto Final Ciclo 3\Nilton\Datos\bin\Debug\Datos.dll
+D:\Proyecto Final Ciclo 3\Nilton\Datos\bin\Debug\Datos.pdb
+D:\Proyecto Final Ciclo 3\Nilton\Datos\bin\Debug\Entidades.dll
+D:\Proyecto Final Ciclo 3\Nilton\Datos\bin\Debug\Entidades.pdb
+D:\Proyecto Final Ciclo 3\Nilton\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Proyecto Final Ciclo 3\Nilton\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Proyecto Final Ciclo 3\Nilton\Datos\obj\Debug\Datos.dll
+D:\Proyecto Final Ciclo 3\Nilton\Datos\obj\Debug\Datos.pdb
+C:\Users\User\Desktop\Noboru\Datos\bin\Debug\Datos.dll
+C:\Users\User\Desktop\Noboru\Datos\bin\Debug\Datos.pdb
+C:\Users\User\Desktop\Noboru\Datos\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\Noboru\Datos\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\Noboru\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Noboru\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Noboru\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\User\Desktop\Noboru\Datos\obj\Debug\Datos.dll
+C:\Users\User\Desktop\Noboru\Datos\obj\Debug\Datos.pdb
+C:\proyectos\tarea1\Noboru\Datos\bin\Debug\Datos.dll
+C:\proyectos\tarea1\Noboru\Datos\bin\Debug\Datos.pdb
+C:\proyectos\tarea1\Noboru\Datos\bin\Debug\Entidades.dll
+C:\proyectos\tarea1\Noboru\Datos\bin\Debug\Entidades.pdb
+C:\proyectos\tarea1\Noboru\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\proyectos\tarea1\Noboru\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\proyectos\tarea1\Noboru\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\proyectos\tarea1\Noboru\Datos\obj\Debug\Datos.dll
+C:\proyectos\tarea1\Noboru\Datos\obj\Debug\Datos.pdb
+D:\Proyecto Final Ciclo 3\Noboru\Datos\bin\Debug\Datos.dll
+D:\Proyecto Final Ciclo 3\Noboru\Datos\bin\Debug\Datos.pdb
+D:\Proyecto Final Ciclo 3\Noboru\Datos\bin\Debug\Entidades.dll
+D:\Proyecto Final Ciclo 3\Noboru\Datos\bin\Debug\Entidades.pdb
+D:\Proyecto Final Ciclo 3\Noboru\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Proyecto Final Ciclo 3\Noboru\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Proyecto Final Ciclo 3\Noboru\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Proyecto Final Ciclo 3\Noboru\Datos\obj\Debug\Datos.dll
+D:\Proyecto Final Ciclo 3\Noboru\Datos\obj\Debug\Datos.pdb

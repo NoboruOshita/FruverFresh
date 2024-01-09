@@ -1,0 +1,77 @@
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Negocio\bin\Debug\Negocio.dll
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Negocio\bin\Debug\Negocio.pdb
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Negocio\obj\Debug\Negocio.dll
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Negocio\obj\Debug\Negocio.pdb
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Negocio\bin\Debug\Datos.dll
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Negocio\bin\Debug\Entidades.dll
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Negocio\bin\Debug\Datos.pdb
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Negocio\bin\Debug\Entidades.pdb
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Negocio\bin\Debug\Negocio.dll
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Negocio\bin\Debug\Negocio.pdb
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Negocio\bin\Debug\Datos.dll
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Negocio\bin\Debug\Entidades.dll
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Negocio\bin\Debug\Datos.pdb
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Negocio\bin\Debug\Entidades.pdb
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Negocio\obj\Debug\Negocio.dll
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Negocio\obj\Debug\Negocio.pdb
+C:\Users\User\Desktop\Nilton\Negocio\bin\Debug\Negocio.dll
+C:\Users\User\Desktop\Nilton\Negocio\bin\Debug\Negocio.pdb
+C:\Users\User\Desktop\Nilton\Negocio\bin\Debug\Datos.dll
+C:\Users\User\Desktop\Nilton\Negocio\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\Nilton\Negocio\bin\Debug\Datos.pdb
+C:\Users\User\Desktop\Nilton\Negocio\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\Nilton\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Nilton\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nilton\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\User\Desktop\Nilton\Negocio\obj\Debug\Negocio.dll
+C:\Users\User\Desktop\Nilton\Negocio\obj\Debug\Negocio.pdb
+D:\Proyecto Final Ciclo 3\Nilton\Negocio\bin\Debug\Negocio.dll
+D:\Proyecto Final Ciclo 3\Nilton\Negocio\bin\Debug\Negocio.pdb
+D:\Proyecto Final Ciclo 3\Nilton\Negocio\bin\Debug\Datos.dll
+D:\Proyecto Final Ciclo 3\Nilton\Negocio\bin\Debug\Entidades.dll
+D:\Proyecto Final Ciclo 3\Nilton\Negocio\bin\Debug\Datos.pdb
+D:\Proyecto Final Ciclo 3\Nilton\Negocio\bin\Debug\Entidades.pdb
+D:\Proyecto Final Ciclo 3\Nilton\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Proyecto Final Ciclo 3\Nilton\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Proyecto Final Ciclo 3\Nilton\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Proyecto Final Ciclo 3\Nilton\Negocio\obj\Debug\Negocio.dll
+D:\Proyecto Final Ciclo 3\Nilton\Negocio\obj\Debug\Negocio.pdb
+C:\Users\User\Desktop\Noboru\Negocio\bin\Debug\Negocio.dll
+C:\Users\User\Desktop\Noboru\Negocio\bin\Debug\Negocio.pdb
+C:\Users\User\Desktop\Noboru\Negocio\bin\Debug\Datos.dll
+C:\Users\User\Desktop\Noboru\Negocio\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\Noboru\Negocio\bin\Debug\Datos.pdb
+C:\Users\User\Desktop\Noboru\Negocio\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\Noboru\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Noboru\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Noboru\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\User\Desktop\Noboru\Negocio\obj\Debug\Negocio.dll
+C:\Users\User\Desktop\Noboru\Negocio\obj\Debug\Negocio.pdb
+C:\proyectos\tarea1\Noboru\Negocio\bin\Debug\Negocio.dll
+C:\proyectos\tarea1\Noboru\Negocio\bin\Debug\Negocio.pdb
+C:\proyectos\tarea1\Noboru\Negocio\bin\Debug\Datos.dll
+C:\proyectos\tarea1\Noboru\Negocio\bin\Debug\Entidades.dll
+C:\proyectos\tarea1\Noboru\Negocio\bin\Debug\Datos.pdb
+C:\proyectos\tarea1\Noboru\Negocio\bin\Debug\Entidades.pdb
+C:\proyectos\tarea1\Noboru\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\proyectos\tarea1\Noboru\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\proyectos\tarea1\Noboru\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\proyectos\tarea1\Noboru\Negocio\obj\Debug\Negocio.dll
+C:\proyectos\tarea1\Noboru\Negocio\obj\Debug\Negocio.pdb
+D:\Proyecto Final Ciclo 3\Noboru\Negocio\bin\Debug\Negocio.dll
+D:\Proyecto Final Ciclo 3\Noboru\Negocio\bin\Debug\Negocio.pdb
+D:\Proyecto Final Ciclo 3\Noboru\Negocio\bin\Debug\Datos.dll
+D:\Proyecto Final Ciclo 3\Noboru\Negocio\bin\Debug\Entidades.dll
+D:\Proyecto Final Ciclo 3\Noboru\Negocio\bin\Debug\Datos.pdb
+D:\Proyecto Final Ciclo 3\Noboru\Negocio\bin\Debug\Entidades.pdb
+D:\Proyecto Final Ciclo 3\Noboru\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Proyecto Final Ciclo 3\Noboru\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Proyecto Final Ciclo 3\Noboru\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Proyecto Final Ciclo 3\Noboru\Negocio\obj\Debug\Negocio.dll
+D:\Proyecto Final Ciclo 3\Noboru\Negocio\obj\Debug\Negocio.pdb

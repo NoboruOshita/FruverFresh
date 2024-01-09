@@ -1,0 +1,42 @@
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Entidades\bin\Debug\Entidades.dll
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Entidades\bin\Debug\Entidades.pdb
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Entidades\obj\Debug\Entidades.dll
+D:\Visual and SQL\Semana 10\ProyectoTrabajoParcial\Entidades\obj\Debug\Entidades.pdb
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Entidades\bin\Debug\Entidades.dll
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Entidades\bin\Debug\Entidades.pdb
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Entidades\obj\Debug\Entidades.dll
+C:\Users\user\Desktop\ciclo 3\Fundamentos de sistemas de información\Trabajo final\trabajo final\Entidades\obj\Debug\Entidades.pdb
+C:\Users\User\Desktop\Nilton\Entidades\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\Nilton\Entidades\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\Nilton\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Nilton\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nilton\Entidades\obj\Debug\Entidades.dll
+C:\Users\User\Desktop\Nilton\Entidades\obj\Debug\Entidades.pdb
+D:\Proyecto Final Ciclo 3\Nilton\Entidades\bin\Debug\Entidades.dll
+D:\Proyecto Final Ciclo 3\Nilton\Entidades\bin\Debug\Entidades.pdb
+D:\Proyecto Final Ciclo 3\Nilton\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Proyecto Final Ciclo 3\Nilton\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Proyecto Final Ciclo 3\Nilton\Entidades\obj\Debug\Entidades.dll
+D:\Proyecto Final Ciclo 3\Nilton\Entidades\obj\Debug\Entidades.pdb
+C:\Users\User\Desktop\Noboru\Entidades\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\Noboru\Entidades\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\Noboru\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Noboru\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Noboru\Entidades\obj\Debug\Entidades.dll
+C:\Users\User\Desktop\Noboru\Entidades\obj\Debug\Entidades.pdb
+C:\proyectos\tarea1\Noboru\Entidades\bin\Debug\Entidades.dll
+C:\proyectos\tarea1\Noboru\Entidades\bin\Debug\Entidades.pdb
+C:\proyectos\tarea1\Noboru\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\proyectos\tarea1\Noboru\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\proyectos\tarea1\Noboru\Entidades\obj\Debug\Entidades.dll
+C:\proyectos\tarea1\Noboru\Entidades\obj\Debug\Entidades.pdb
+D:\Proyecto Final Ciclo 3\Noboru\Entidades\bin\Debug\Entidades.dll
+D:\Proyecto Final Ciclo 3\Noboru\Entidades\bin\Debug\Entidades.pdb
+D:\Proyecto Final Ciclo 3\Noboru\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Proyecto Final Ciclo 3\Noboru\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Proyecto Final Ciclo 3\Noboru\Entidades\obj\Debug\Entidades.dll
+D:\Proyecto Final Ciclo 3\Noboru\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,44 @@
+﻿<Window x:Class="Presentacion.wpfOpcionesCliente" WindowStartupLocation = "CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="wpfOpcionesCliente" Height="450" Width="800">
+    <Grid OpacityMask="Black" Background="#FF99B4D1">
+        <Image HorizontalAlignment="Left" Height="204" VerticalAlignment="Top" Width="792" Source="ImgFruverFresh.jpg" Stretch="UniformToFill" Margin="0,-80,0,0" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.085"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-0.624"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Label Content="BIENVENIDO" HorizontalAlignment="Left" Margin="36,144,0,0" VerticalAlignment="Top" FontSize="22" FontFamily="Sitka Small" FontWeight="Bold"/>
+        <Label x:Name="lblNombre" Content="Label" HorizontalAlignment="Left" Margin="200,144,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.722,-0.491" FontSize="22" FontFamily="Sitka Small" FontWeight="Bold"/>
+        <Button x:Name="btnProdDisponible" Content="PRODUCTO &#xD;&#xA;DISPONIBLE" HorizontalAlignment="Left" Margin="134,237,0,0" VerticalAlignment="Top" Width="180" Height="74" FontFamily="Sitka Small" FontWeight="Bold" FontSize="18" Click="btnProdDisponible_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="images/btnContorno.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnProdElegido" Content="HISTORIAL" HorizontalAlignment="Left" Margin="441,237,0,0" VerticalAlignment="Top" Width="180" Height="74" FontFamily="Sitka Small" FontSize="18" FontWeight="Bold" RenderTransformOrigin="-0.791,0.837" Click="btnHistorial_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="images/btnContorno.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnCerrarSes" Content="Cerrar Sesión" HorizontalAlignment="Left" Margin="635,144,0,0" VerticalAlignment="Top" Width="110" Height="30" Click="btnCerrarSes_Click" FontWeight="Bold" BorderBrush="{x:Null}" Foreground="White">
+            <Button.Background>
+                <ImageBrush ImageSource="images/btnWarning1.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnmodificarC" Content="MODIFICAR DATOS PERSONALES" HorizontalAlignment="Left" Margin="51,365,0,0" VerticalAlignment="Top" Width="223" Height="35" FontWeight="Bold" Click="btnmodificarC_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="images/btnRegistro.png"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>
